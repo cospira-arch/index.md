@@ -108,5 +108,5 @@ This project welcomes dialogue across policy, research, art, and technology.
 ---
 
 **Author / Architect**  
-Eiji Kodama  
+Eiji Kodama  (児玉 英二）
 Boundary OS Architect
