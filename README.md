@@ -1,117 +1,112 @@
----
-layout: default
-title: Boundary OS / Boundary Stability Index
----
+# Boundary OS Research & Practice Hub
 
-# Boundary OS  
-**Redesigning Security, Diplomacy, and Agency in the Age of AI**
+**Boundary OS** is a research and practice initiative exploring how societies can redesign security, ethics, and governance in the age of AI — not by building higher walls, but by cultivating *responsive, breathable boundaries*.
 
-Boundary OS is a research and design framework for rethinking security, governance, and human–AI interaction under conditions of continuous social, political, and technological stress.
-
-Rather than treating borders, identities, or institutions as static walls, Boundary OS models them as *living boundaries*: responsive, permeable, and repairable systems.
-
-This site serves as a public research hub for theory, implementation, data, and artistic exploration related to Boundary OS and the Boundary Stability Index (BSI).
+This site hosts academic papers, policy tools, simulations, and artistic explorations related to the Boundary OS framework and the Boundary Stability Index (BSI).
 
 ---
 
-## Policy Orientation
+## 🔹 Core Policy & Message
 
-Modern crises — migration, AI governance, cyber conflict, and diplomatic fragmentation — are not failures of control, but failures of *boundary design*.
+**Thesis Statement**
+
+> Stability in the AI era is not achieved through control or exclusion,  
+> but through the continuous sensing, tuning, and repair of boundaries  
+> across material, affective, narrative, and institutional layers.
 
 Boundary OS proposes:
-- **Responsive Security**, not threat exclusion  
-- **Breathing Boundaries**, not frozen borders  
-- **AI as a Boundary Medium**, not a sovereign decision-maker  
-
-The goal is not optimization, but *stability under uncertainty*.
+- AI as a *Boundary Medium*, not a governing subject
+- Security as *responsiveness*, not rigidity
+- Ethics as *dynamic boundary management*, not static rules
 
 ---
 
-## Research Papers
+## 📄 Research Papers
 
 ### 1. Techno-Animist Ethics  
 **(Philosophical Foundation)**  
-A rethinking of ethics beyond human-centered or machine-centered models, proposing a relational, boundary-aware ethics for hybrid human–AI societies.
+Explores a post-dualist ethical framework where technology, humans, and environments are treated as relational agents without granting AI moral dominance.
 
-→ Ontological and ethical grounding
+→ [Read the paper](papers/techno-animist-ethics.md)
 
 ---
 
 ### 2. Dynamic Ethical Boundary Lines  
-**(Logical Framework)**  
-Introduces dynamic, layered boundary models that adapt over time rather than enforcing fixed moral or legal thresholds.
+**(Logical & Theoretical Framework)**  
+Introduces the concept of ethical boundaries as dynamic, multi-layered systems rather than fixed norms or prohibitions.
 
-→ Logical and systems-level theory
+→ [Read the paper](papers/dynamic-ethical-boundaries.md)
 
 ---
 
-### 3. Boundary Operating System (Boundary OS)  
-**(Implementation Framework)**  
-A five-layer boundary architecture integrating sensing, visualization, tuning, and repair — applicable to diplomacy, governance, and crisis management.
+### 3. Boundary OS  
+**(System Architecture & Implementation)**  
+Presents the Boundary Operating System: a five-layer model with sensing, visualization, tuning, and repair functions for responsive security and governance.
 
-→ Operational design and policy architecture
+→ [Read the paper](papers/boundary-os.md)
 
 ---
 
 ### 4. Boundary Stability Index (BSI)  
-**(Applied Metric)**  
-A quantitative–qualitative index measuring boundary stress and resilience across material, physiological, affective, narrative, and institutional layers.
+**(Applied Metric & Policy Tool)**  
+Defines BSI as a composite index measuring boundary stress and resilience across migration, diplomacy, and societal integration contexts.
 
-→ Evaluation, comparison, and simulation tool
-
----
-
-## Laboratory
-
-This section hosts experimental and applied components:
-
-- Appendix expansions and technical annexes  
-- Boundary OS simulators and dashboards  
-- Synthetic and real-world datasets (BSI)  
-- Policy scenario modeling (if–then simulations)
-
-The laboratory bridges theory and execution.
+→ [Read the paper](papers/bsi.md)
 
 ---
 
-## Art & Practice
+## 🧪 Laboratory & Simulations
 
-Boundary OS is also explored through:
-- Generative art and visual systems  
-- Conceptual diagrams and installations  
-- Experiments at the intersection of AI, ritual, and perception  
+### Boundary OS Laboratory
+Applied experiments, policy sandboxes, and simulation environments.
 
-Art is treated as a boundary-testing instrument, not decoration.
+- **BSI Simulator (Policy Version)**  
+  Interactive tool for policymakers to simulate migration, cyber, and diplomatic stress scenarios.
 
----
-
-## Media & Writing
-
-- YouTube (talks, explainers, prototypes)  
-- note essays and public reflections  
-- External publications and interviews  
-
-These channels translate research into accessible narratives.
+→ [Open the Lab](lab/bsi-simulator.md)
 
 ---
 
-## Community & Contact
+## 📚 Appendices & Technical Resources
 
-Boundary OS is an open and evolving framework.
+- **Appendix F — Implementation Resources & Mathematical Specification**  
+  Datasets, formulas, UI designs, and technical annexes.
 
-Collaboration inquiries are welcome from:
-- Researchers and institutions  
-- Policymakers and civic organizations  
-- Artists, designers, and technologists  
+→ [Appendix F](appendix/appendix-f.md)
 
-**Contact:**  
-[Email placeholder]  
-[GitHub Discussions / Community link placeholder]
+- **Appendix G — National & Trilateral Implementation Blueprints**  
+  Singapore–Taiwan–Estonia pilot models and policy execution frameworks.
+
+→ [Appendix G](appendix/appendix-g.md)
 
 ---
 
-## License & Use
+## 🎨 Art & Experimental Works
 
-Unless otherwise noted, content is shared for research, policy exploration, and non-commercial use with attribution.
+Boundary OS is also explored through visual art, generative media, and narrative experiments.
 
-For applied or institutional deployment, please contact the author.
+→ [Artworks & Media](art/index.md)
+
+---
+
+## 🌐 External Links
+
+- YouTube (Lectures & Visual Essays)  
+- note (Essays & Development Logs)  
+- Other research collaborations
+
+*(Links to be added)*
+
+---
+
+## 🤝 Contact & Community
+
+This project welcomes dialogue across policy, research, art, and technology.
+
+→ [Contact & Collaboration](contact.md)
+
+---
+
+**Author / Architect**  
+Eiji Kodama  
+Boundary OS Architect
