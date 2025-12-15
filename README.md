@@ -74,8 +74,8 @@ These appendices function both as technical evidence and as standalone implement
 
 🔹 Appendix Hub — Compendium Overview
 
-Repository:
-https://cospira-arch.github.io/Appendix-Compendium/
+Repository:(https://cospira-arch.github.io/Appendix-Compendium/)
+
 
 Purpose:
 A unified index and navigation hub for all appendices related to the Boundary OS and Boundary Stability Index (BSI).
@@ -89,8 +89,8 @@ Boundary Stability Index (applied metric system)
 
 🔹 Appendix F — Implementation Resources & Technical Annex
 
-Repository:
-(https://cospira-arch.github.io/Appendix-F/)
+Repository:(https://cospira-arch.github.io/Appendix-F/)
+
 
 Purpose:
 Technical and operational materials demonstrating that the Boundary OS is actionable.
@@ -104,8 +104,8 @@ Boundary OS (implementation layer)
 
 🔹 Appendix F.9 — Boundary Stability Index (BSI)
 
-Repository:
-(https://cospira-arch.github.io/Appendix-F.9/)
+Repository:(https://cospira-arch.github.io/Appendix-F.9/)
+
 
 Purpose:
 A focused appendix dedicated exclusively to the Boundary Stability Index as a metric system.
@@ -119,8 +119,8 @@ Boundary Stability Index (BSI)
 
 🔹 Appendix G — National & Trilateral Implementation Blueprint (Executive Summary available)
 
-Repository:
-(https://cospira-arch.github.io/Appendix-G/)
+Repository:(https://cospira-arch.github.io/Appendix-G/)
+
 
 Purpose:
 A government-report–grade implementation blueprint describing how Boundary OS can be deployed at nation-state and multilateral scale.
@@ -128,7 +128,7 @@ Includes pilot scenarios (e.g., Singapore–Taiwan–Estonia), governance models
 
 Primary Reference:
 
-Boundary OS (https://cospira-arch.github.io/Boundary-OS/)  BSI(https://cospira-arch.github.io/BSI/)
+Boundary OS:(https://cospira-arch.github.io/Boundary-OS/)  BSI:(https://cospira-arch.github.io/BSI/)
 
 | Appendix            | Role                      | Originating Paper        |
 | ------------------- | ------------------------- | ------------------------ |
@@ -143,7 +143,7 @@ Boundary OS (https://cospira-arch.github.io/Boundary-OS/)  BSI(https://cospira-a
 
 Boundary OS is also explored through visual art, generative media, and narrative experiments.
 
-→ [Artworks & Media]((https://cospira-arch.github.io/Artwork-Media/)
+→ [Artworks & Media](https://cospira-arch.github.io/Artwork-Media/)
 
 ---
 
