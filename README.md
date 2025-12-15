@@ -35,7 +35,7 @@ Explores a post-dualist ethical framework where technology, humans, and environm
 **(Logical & Theoretical Framework)**  
 Introduces the concept of ethical boundaries as dynamic, multi-layered systems rather than fixed norms or prohibitions.
 
-→ [Read the paper](papers/dynamic-ethical-boundaries.md)
+→ [Read the paper](https://github.com/cospira-arch/dynamic-ethical-boundary-lines)
 
 ---
 
@@ -43,7 +43,7 @@ Introduces the concept of ethical boundaries as dynamic, multi-layered systems r
 **(System Architecture & Implementation)**  
 Presents the Boundary Operating System: a five-layer model with sensing, visualization, tuning, and repair functions for responsive security and governance.
 
-→ [Read the paper](papers/boundary-os.md)
+→ [Read the paper](https://github.com/cospira-arch/Boundary-OS)
 
 ---
 
@@ -51,7 +51,7 @@ Presents the Boundary Operating System: a five-layer model with sensing, visuali
 **(Applied Metric & Policy Tool)**  
 Defines BSI as a composite index measuring boundary stress and resilience across migration, diplomacy, and societal integration contexts.
 
-→ [Read the paper](papers/bsi.md)
+→ [Read the paper](https://github.com/cospira-arch/BSI)
 
 ---
 
