@@ -74,7 +74,7 @@ These appendices function both as technical evidence and as standalone implement
 
 🔹 Appendix Hub — Compendium Overview
 
-Repository:(https://cospira-arch.github.io/Appendix-Compendium/)
+[Repository](https://cospira-arch.github.io/Appendix-Compendium/)
 
 
 Purpose:
@@ -89,7 +89,7 @@ Boundary Stability Index (applied metric system)
 
 🔹 Appendix F — Implementation Resources & Technical Annex
 
-Repository:(https://cospira-arch.github.io/Appendix-F/)
+[Repository](https://cospira-arch.github.io/Appendix-F/)
 
 
 Purpose:
@@ -104,7 +104,7 @@ Boundary OS (implementation layer)
 
 🔹 Appendix F.9 — Boundary Stability Index (BSI)
 
-Repository:(https://cospira-arch.github.io/Appendix-F.9/)
+[Repository](https://cospira-arch.github.io/Appendix-F.9/)
 
 
 Purpose:
@@ -119,7 +119,7 @@ Boundary Stability Index (BSI)
 
 🔹 Appendix G — National & Trilateral Implementation Blueprint (Executive Summary available)
 
-Repository:(https://cospira-arch.github.io/Appendix-G/)
+[Repository](https://cospira-arch.github.io/Appendix-G/)
 
 
 Purpose:
@@ -128,7 +128,7 @@ Includes pilot scenarios (e.g., Singapore–Taiwan–Estonia), governance models
 
 Primary Reference:
 
-Boundary OS:(https://cospira-arch.github.io/Boundary-OS/)  BSI:(https://cospira-arch.github.io/BSI/)
+[Boundary OS](https://cospira-arch.github.io/Boundary-OS/)  [BSI](https://cospira-arch.github.io/BSI/)
 
 | Appendix            | Role                      | Originating Paper        |
 | ------------------- | ------------------------- | ------------------------ |
