@@ -157,7 +157,8 @@ Includes pilot scenarios (e.g., Singapore–Taiwan–Estonia), governance models
 
 Primary Reference:
 
-[Boundary OS](https://cospira-arch.github.io/Boundary-OS/)        [BSI](https://cospira-arch.github.io/BSI/)
+[Boundary OS](https://cospira-arch.github.io/Boundary-OS/)       
+ [BSI](https://cospira-arch.github.io/BSI/)
 
 | Appendix            | Role                      | Originating Paper        |
 | ------------------- | ------------------------- | ------------------------ |
