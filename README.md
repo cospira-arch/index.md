@@ -51,7 +51,7 @@ Presents the Boundary Operating System: a five-layer model with sensing, visuali
 **(Applied Metric & Policy Tool)**  
 Defines BSI as a composite index measuring boundary stress and resilience across migration, diplomacy, and societal integration contexts.
 
-→ [Read the paper](https://cospira-arch.github.io/BSI/)
+→ [Read the paper](https://cospira-arch.github.io/Boundary-Stability-Index/)
 
 ---
 
