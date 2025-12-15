@@ -167,5 +167,5 @@ This project welcomes dialogue across policy, research, art, and technology.
 
 **Author / Architect**  
 Eiji Kodama  (児玉 英二）
-ORCID:0009-0005-2589-9475
 Boundary OS Architect
+ORCID:0009-0005-2589-9475
