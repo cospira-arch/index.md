@@ -1,6 +1,3 @@
-title: Cospira Architecture
-markdown: kramdown
-theme: minima
 # Boundary OS Research & Practice Hub
 
 **Boundary OS** is a research and practice initiative exploring how societies can redesign security, ethics, and governance in the age of AI — not by building higher walls, but by cultivating *responsive, breathable boundaries*.
