@@ -27,7 +27,7 @@ Boundary OS proposes:
 **(Philosophical Foundation)**  
 Explores a post-dualist ethical framework where technology, humans, and environments are treated as relational agents without granting AI moral dominance.
 
-→ [Read the paper](https://github.com/cospira-arch/TechnoAnimism-Ethics-Framework)
+→ [Read the paper](https://cospira-arch.github.io/TechnoAnimism-Ethics-Framework/)
 
 ---
 
@@ -35,7 +35,7 @@ Explores a post-dualist ethical framework where technology, humans, and environm
 **(Logical & Theoretical Framework)**  
 Introduces the concept of ethical boundaries as dynamic, multi-layered systems rather than fixed norms or prohibitions.
 
-→ [Read the paper](https://github.com/cospira-arch/dynamic-ethical-boundary-lines)
+→ [Read the paper](https://cospira-arch.github.io/dynamic-ethical-boundary-lines/)
 
 ---
 
@@ -43,7 +43,7 @@ Introduces the concept of ethical boundaries as dynamic, multi-layered systems r
 **(System Architecture & Implementation)**  
 Presents the Boundary Operating System: a five-layer model with sensing, visualization, tuning, and repair functions for responsive security and governance.
 
-→ [Read the paper](https://github.com/cospira-arch/Boundary-OS)
+→ [Read the paper](https://cospira-arch.github.io/Boundary-OS/)
 
 ---
 
@@ -51,7 +51,7 @@ Presents the Boundary Operating System: a five-layer model with sensing, visuali
 **(Applied Metric & Policy Tool)**  
 Defines BSI as a composite index measuring boundary stress and resilience across migration, diplomacy, and societal integration contexts.
 
-→ [Read the paper](https://github.com/cospira-arch/BSI)
+→ [Read the paper](https://cospira-arch.github.io/BSI/)
 
 ---
 
@@ -63,7 +63,7 @@ Applied experiments, policy sandboxes, and simulation environments.
 - **BSI Simulator (Policy Version)**  
   Interactive tool for policymakers to simulate migration, cyber, and diplomatic stress scenarios.
 
-→ [Open the Lab](https://github.com/cospira-arch/BSI-Simulator)
+→ [Open the Lab](https://cospira-arch.github.io/BSI-Simulator/)
 
 ---
 
@@ -75,7 +75,7 @@ These appendices function both as technical evidence and as standalone implement
 🔹 Appendix Hub — Compendium Overview
 
 Repository:
-https://github.com/cospira-arch/Appendix-Compendium
+https://cospira-arch.github.io/Appendix-Compendium/
 
 Purpose:
 A unified index and navigation hub for all appendices related to the Boundary OS and Boundary Stability Index (BSI).
@@ -90,7 +90,7 @@ Boundary Stability Index (applied metric system)
 🔹 Appendix F — Implementation Resources & Technical Annex
 
 Repository:
-https://github.com/cospira-arch/Appendix-F
+https://cospira-arch.github.io/Appendix-F/
 
 Purpose:
 Technical and operational materials demonstrating that the Boundary OS is actionable.
@@ -105,7 +105,7 @@ Boundary OS (implementation layer)
 🔹 Appendix F.9 — Boundary Stability Index (BSI)
 
 Repository:
-https://github.com/cospira-arch/Appendix-F.9
+https://cospira-arch.github.io/Appendix-F.9/
 
 Purpose:
 A focused appendix dedicated exclusively to the Boundary Stability Index as a metric system.
@@ -120,7 +120,7 @@ Boundary Stability Index (BSI)
 🔹 Appendix G — National & Trilateral Implementation Blueprint (Executive Summary available)
 
 Repository:
-https://github.com/cospira-arch/Appendix-G
+https://cospira-arch.github.io/Appendix-G/
 
 Purpose:
 A government-report–grade implementation blueprint describing how Boundary OS can be deployed at nation-state and multilateral scale.
@@ -128,7 +128,7 @@ Includes pilot scenarios (e.g., Singapore–Taiwan–Estonia), governance models
 
 Primary Reference:
 
-Boundary OS ([nation-scale operationalization](https://github.com/cospira-arch/Boundary-OS))
+Boundary OS (https://cospira-arch.github.io/Boundary-OS/)  BSI(https://cospira-arch.github.io/BSI/)
 
 | Appendix            | Role                      | Originating Paper        |
 | ------------------- | ------------------------- | ------------------------ |
@@ -143,7 +143,7 @@ Boundary OS ([nation-scale operationalization](https://github.com/cospira-arch/B
 
 Boundary OS is also explored through visual art, generative media, and narrative experiments.
 
-→ [Artworks & Media]((https://github.com/cospira-arch/Artwork-Media)
+→ [Artworks & Media]((https://cospira-arch.github.io/Artwork-Media/)
 
 ---
 
@@ -161,7 +161,7 @@ Boundary OS is also explored through visual art, generative media, and narrative
 
 This project welcomes dialogue across policy, research, art, and technology.
 
-→ [Contact & Collaboration](https://github.com/cospira-arch/Contact-Community)
+→ [Contact & Collaboration](https://cospira-arch.github.io/Contact-Community/)
 
 ---
 
