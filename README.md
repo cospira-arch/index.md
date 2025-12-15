@@ -67,17 +67,74 @@ Applied experiments, policy sandboxes, and simulation environments.
 
 ---
 
-## 📚 Appendices & Technical Resources
+## 📚 Appendices & Implementation Compendia
 
-- **Appendix F — Implementation Resources & Mathematical Specification**  
-  Datasets, formulas, UI designs, and technical annexes.
+The Boundary OS project is supported by a structured set of appendices, each serving a distinct role in translating theory into executable policy, metrics, and system design.
+These appendices function both as technical evidence and as standalone implementation references.
 
-→ [Appendix F](appendix/appendix-f.md)
+🔹 Appendix Hub — Compendium Overview
 
-- **Appendix G — National & Trilateral Implementation Blueprints**  
-  Singapore–Taiwan–Estonia pilot models and policy execution frameworks.
+Repository:
+https://github.com/cospira-arch/Appendix-Compendium
 
-→ [Appendix G](appendix/appendix-g.md)
+Purpose:
+A unified index and navigation hub for all appendices related to the Boundary OS and Boundary Stability Index (BSI).
+This repository clarifies scope, cross-references, and document lineage across appendices.
+
+Primary References:
+
+Boundary OS (core framework)
+
+Boundary Stability Index (applied metric system)
+
+🔹 Appendix F — Implementation Resources & Technical Annex
+
+Repository:
+https://github.com/cospira-arch/Appendix-F
+
+Purpose:
+Technical and operational materials demonstrating that the Boundary OS is actionable.
+Includes system architectures, mathematical specifications, simulator design, datasets, and UI concepts.
+
+Primary Reference:
+
+Boundary Stability Index (BSI)
+
+Boundary OS (implementation layer)
+
+🔹 Appendix F.9 — Boundary Stability Index (BSI)
+
+Repository:
+https://github.com/cospira-arch/Appendix-F.9
+
+Purpose:
+A focused appendix dedicated exclusively to the Boundary Stability Index as a metric system.
+Contains mathematical definitions, synthetic datasets, KPI mappings, policy simulation logic, and evaluator guidance.
+
+This appendix can be read independently as a metric proposal paper.
+
+Primary Reference:
+
+Boundary Stability Index (BSI)
+
+🔹 Appendix G — National & Multinational Implementation Blueprint
+
+Repository:
+https://github.com/cospira-arch/Appendix-G
+
+Purpose:
+A government-report–grade implementation blueprint describing how Boundary OS can be deployed at nation-state and multilateral scale.
+Includes pilot scenarios (e.g., Singapore–Taiwan–Estonia), governance models, timelines, and diplomatic coordination structures.
+
+Primary Reference:
+
+Boundary OS ([nation-scale operationalization](https://github.com/cospira-arch/Boundary-OS))
+| Appendix            | Role                      | Originating Paper        |
+| ------------------- | ------------------------- | ------------------------ |
+| Appendix Compendium | Structural index          | Boundary OS / BSI        |
+| Appendix F          | Technical implementation  | Boundary OS → BSI        |
+| Appendix F.9        | Metric specification      | Boundary Stability Index |
+| Appendix G          | National policy blueprint | Boundary OS              |
 
 ---
 
