@@ -90,7 +90,7 @@ Boundary Stability Index (applied metric system)
 🔹 Appendix F — Implementation Resources & Technical Annex
 
 Repository:
-https://cospira-arch.github.io/Appendix-F/
+(https://cospira-arch.github.io/Appendix-F/)
 
 Purpose:
 Technical and operational materials demonstrating that the Boundary OS is actionable.
@@ -105,7 +105,7 @@ Boundary OS (implementation layer)
 🔹 Appendix F.9 — Boundary Stability Index (BSI)
 
 Repository:
-https://cospira-arch.github.io/Appendix-F.9/
+(https://cospira-arch.github.io/Appendix-F.9/)
 
 Purpose:
 A focused appendix dedicated exclusively to the Boundary Stability Index as a metric system.
@@ -120,7 +120,7 @@ Boundary Stability Index (BSI)
 🔹 Appendix G — National & Trilateral Implementation Blueprint (Executive Summary available)
 
 Repository:
-https://cospira-arch.github.io/Appendix-G/
+(https://cospira-arch.github.io/Appendix-G/)
 
 Purpose:
 A government-report–grade implementation blueprint describing how Boundary OS can be deployed at nation-state and multilateral scale.
