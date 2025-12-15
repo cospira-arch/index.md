@@ -1,10 +1,40 @@
-# Boundary OS Research & Practice Hub
+# Boundary OS  
+### Designing Responsive Boundaries for AI, Society, and Human Agency
 
-**Boundary OS** is a research and practice initiative exploring how societies can redesign security, ethics, and governance in the age of AI — not by building higher walls, but by cultivating *responsive, breathable boundaries*.
+Boundary OS is a research and design initiative exploring how societies can maintain **security, dignity, and adaptability** in the age of artificial intelligence — without freezing boundaries or surrendering agency to machines.
 
-This site hosts academic papers, policy tools, simulations, and artistic explorations related to the Boundary OS framework and the Boundary Stability Index (BSI).
+This site brings together **theoretical frameworks, policy-oriented research, technical appendices, datasets, and artistic experiments** that collectively propose a new model of governance:  
+**responsive security through living boundaries.**
 
----
+
+Instead of treating borders, ethics, and institutions as rigid walls,  
+Boundary OS approaches them as **breathing membranes** —  
+capable of sensing stress, tuning permeability, and repairing rupture.
+
+AI, in this framework, is not a decision-maker.  
+It is a **Boundary Medium**: a system for sensing, visualization, and support — never judgment or domination.
+
+## What You Will Find Here
+
+- **Core Papers**  
+  Foundational and applied research on AI, ethics, and boundary governance.
+
+- **Boundary Stability Index (BSI)**  
+  A quantitative framework for measuring societal boundary stress, with datasets and simulation tools.
+
+- **Appendices & Technical Resources**  
+  Implementation blueprints, mathematical specifications, UI designs, and policy-ready materials.
+
+- **Laboratory & Simulations**  
+  Prototypes, policy simulators, and experimental interfaces.
+
+- **Art & Media**  
+  Visual, narrative, and sonic works exploring boundaries beyond language.
+
+This project is intentionally open-ended.  
+It is not a finished system — it is a **working architecture**.
+
+
 
 ## 🔹 Core Policy & Message
 
