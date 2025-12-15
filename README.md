@@ -143,7 +143,7 @@ Boundary OS ([nation-scale operationalization](https://github.com/cospira-arch/B
 
 Boundary OS is also explored through visual art, generative media, and narrative experiments.
 
-→ [Artworks & Media](art/index.md)
+→ [Artworks & Media]((https://github.com/cospira-arch/Artwork-Media)
 
 ---
 
