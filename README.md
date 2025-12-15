@@ -78,6 +78,6 @@ These pieces examine boundaries where language and policy alone are insufficient
 Boundary OS is currently an independent research initiative.
 
 For inquiries, collaboration proposals, or discussion:
-📧 contact: [your-email@example.com]
+📧 contact: [cospira2025@gmail.com]
 
 Community spaces and public discussions will be announced here.
