@@ -2,3 +2,19 @@ title: COSPIRA ARCH
 description: Boundary OS, BSI, and Applied Ethical Architectures
 theme: minima
 markdown: kramdown
+# _config.yml
+title: "Eiji Kodama - Boundary OS Research"
+description: "CoSpira Project: Redesigning Boundaries in the AI Era"
+author: "Eiji Kodama"
+email: "cospira2025@gmail.com"
+
+# テーマ選択（以下から選ぶ）
+theme: jekyll-theme-minimal
+# または
+# theme: jekyll-theme-cayman
+# theme: jekyll-theme-slate
+# theme: jekyll-theme-architect
+
+# プラグイン
+plugins:
+  - jekyll-seo-tag
